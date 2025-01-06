@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://anantmatta.github.io/WIP//sitemap.xml
+User-agent: * Disallow: Sitemap: https://anantmatta.github.io/sitemap.xml
