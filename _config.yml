@@ -7,7 +7,7 @@ first_name: Anant
 middle_name: 
 last_name: Matta
 contact_note: >
-  Thanks for stopping by!
+  Thanks for stopping by :D
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Anant Matta's personal website.
 footer_text: >
@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: true
 socials_in_search: true
 bib_search: true
